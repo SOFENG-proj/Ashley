@@ -1,0 +1,160 @@
+.background {
+    background-color: rgb(244 230 193);
+}
+
+.logo{
+    display: inline-block;
+    height: 80px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 3px;
+    /* position: absolute;
+    top: 50%;
+    left: 50%; */
+}
+
+.upper {
+    height: 160px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    /* background-color: blue; */
+    background-color: rgb(244 230 193);
+    display: inline-block;
+    position: sticky;
+    top: 0px;
+}
+
+.searchbar {
+    display: inline-block;
+    height: 40px;
+    width: 600px;
+    background-color: rgb(244 230 193);
+    margin-top: 0px;
+    margin-left: 40px;
+    position-anchor: top;
+    /* margin-bottom: 70px; */
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(161, 161, 202);
+    border-radius: 3px;
+    position: absolute;
+    top: 70px;
+}
+
+.tahanan {
+    background-color: rgb(244 230 193);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 3px;
+    /* border: none; */
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    margin-left: 10px;
+    transition: background-color 0.7s,
+    border-radius 0.7s;
+}
+
+.tahanan:hover {
+    background-color: rgb(241 104  94);
+    border-radius: 15px;
+}
+
+.damit {
+    background-color: rgb(244 230 193);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 3px;
+    /* border: none; */
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    margin-left: 115px;
+    transition: background-color 0.7s,
+    border-radius 0.7s;
+}
+
+.damit:hover {
+    background-color: rgb(241 104  94);
+    border-radius: 15px;
+}
+
+.gamit {
+    background-color: rgb(244 230 193);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 3px;
+    /* border: none; */
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    margin-left: 220px;
+    transition: background-color 0.7s,
+    border-radius 0.7s;
+}
+
+.gamit:hover {
+    background-color: rgb(241 104  94);
+    border-radius: 15px;
+}
+
+.pagkain {
+    background-color: rgb(244 230 193);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 3px;
+    /* border: none; */
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    margin-left: 325px;
+    transition: background-color 0.7s,
+    border-radius 0.7s;
+}
+
+.pagkain:hover {
+    background-color: rgb(241 104  94);
+    border-radius: 15px;
+}
+
+.iba {
+    background-color: rgb(244 230 193);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 3px;
+    /* border: none; */
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    margin-left: 430px;
+    transition: background-color 0.7s,
+    border-radius 0.7s;
+}
+
+.iba:hover {
+    background-color: rgb(241 104  94);
+    border-radius: 15px;
+}
+
+.side {
+    background-color: red;
+    /* background-color: rgb(244 230 193); */
+    display: inline-block;
+    width: 200px;
+    height: 100svh;
+}
+
+.forG {
+    margin-left: 50px;
+}
